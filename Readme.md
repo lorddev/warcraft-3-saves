@@ -1,0 +1,3 @@
+# Warcraft 3 saves
+
+So, I know I'm a bit late to "the game."  I started playing WoW in 2005 and hadn't played WC3.  After playing SC and SC2 and Heroes of the Storm, I realized there was a lot of background I was missing, whether in gameplay or story.  So I bought it from Blizzard online for $10.  Then when I installed a patch, and then _The Frozen Throne,_ I lost all my progress.  So I've added a Git repo to keep it safe.  I suppose you could fork if you want to.  But I have no idea what good it would do.
