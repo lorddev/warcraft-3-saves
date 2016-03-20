@@ -1,6 +1,6 @@
 [Campaign]
 Tutorial=-3458764513820540925
-Human=-3458764513820540925
+Human=-3458764513820538881
 Undead=576460752303423488
 Orc=576460752303423488
 NightElf=576460752303423488
@@ -10,7 +10,7 @@ TutorialCleared=1
 Difficulty=1
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=1738829371
+Magic=1707648421
 Magic1=-704524704
 
 [Campaign1]
