@@ -1,7 +1,7 @@
 [Campaign]
 Tutorial=-3458764513820540925
 Human=-1152921504606842881
-Undead=-9223372036854775793
+Undead=-9223372036854775553
 Orc=576460752303423488
 NightElf=576460752303423488
 PlayerName=Devlord
@@ -10,7 +10,7 @@ TutorialCleared=1
 Difficulty=1
 
 [NOTE TO HACKERS -- Changing this file may be hazardous to your progress]
-Magic=491790926
+Magic=-142037802
 Magic1=-704524704
 
 [Campaign1]
